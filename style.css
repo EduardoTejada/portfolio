@@ -1,0 +1,22 @@
+body{
+    font: normal 20pt Arial;
+    background-color: azure;
+    background-image: url(background.jpg);
+}
+#lmao{
+    text-align: center;
+    background-color: rgba(189, 141, 141, 0.76);
+    color: rgb(57, 124, 168);
+}
+.lol{
+    text-align: center;
+    background-color: rgba(189, 141, 141, 0.76);
+    color: rgb(57, 124, 168);
+}
+p{
+    color: rgb(57, 124, 168);
+    background-color: rgb(189, 141, 141);
+}
+table{
+    color: whitesmoke;
+}
